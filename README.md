@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Developer+%7C+OOP+%7C+JDBC+%7C+MySQL;Building+Clean%2C+Scalable+Backend+Systems;AI+%2B+Deep+Learning+Project+Builder;Open+to+Opportunities+in+Java+%2F+SDE+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Developer+%7C+OOP+%7C+JDBC+%7C+MySQL;Building+Clean%2C+Scalable+Backend+Systems;Spring+Boot+%2B+REST+API+Developer;Open+to+Opportunities+in+Java+%2F+SDE+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,12 +34,8 @@ public class GokuLS {
     };
 
     static final String[] currentlyLearning = {
-        "Spring Boot", "REST APIs", "DSA (LeetCode grind)", "System Design"
+        "Spring Boot", "REST APIs", "Maven", "DSA (LeetCode grind)", "System Design"
     };
-
-    static String funFact() {
-        return "I built an AI that predicts lung cancer stages with 92%+ accuracy 🫁🤖";
-    }
 
     static String motto() {
         return "Write code that humans can read, machines can run, and time can't break.";
@@ -49,7 +45,6 @@ public class GokuLS {
         System.out.println("👋 Hey! I'm " + name);
         System.out.println("📍 " + location);
         System.out.println("🎓 " + degree);
-        System.out.println("💡 Fun fact: " + funFact());
         System.out.println("🧭 Motto: " + motto());
     }
 }
@@ -70,9 +65,10 @@ public class GokuLS {
 **Frameworks & Libraries**
 
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![ResNet50](https://img.shields.io/badge/ResNet50-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 
 **Databases**
 
@@ -142,7 +138,7 @@ public class GokuLS {
 | 🗂️ Project | 🛠️ Stack | 📌 Highlights |
 |:---|:---|:---|
 | 🏫 **[College Management System](https://github.com/Gokul-Selvakumar05)** | Java · OOP · JDBC · MySQL | 6 modules · 500+ student records · 8+ tables · ~30% less data redundancy · 100% data consistency |
-| 🫁 **[AI-Based Lung Cancer Stage Predictor](https://github.com/Gokul-Selvakumar05)** | Python · ResNet50 · Grad-CAM | 92%+ accuracy across 4 stages · ~40% faster diagnostic review · Recommends 10+ nearby oncologists |
+| 🌱 **Spring Boot REST API (In Progress)** | Java · Spring Boot · REST · Maven · MySQL | CRUD-based backend service · building on JDBC/Maven foundation · currently under active development |
 
 </p>
 
@@ -154,7 +150,7 @@ public class GokuLS {
 
 | 🎖️ Achievement | 📅 Year | 🏛️ Issuer |
 |:---|:---:|:---|
-| ☕ Java Programming Certificate | 2026 | Udemy |
+| ☕ Java Programming Certificate | 2026 | SSRTIC |
 | 🗄️ SQL (Intermediate) Certificate | 2026 | HackerRank |
 | 🎓 B.E. Computer Science & Engineering (CGPA 7.1) | 2022–2026 | Arasu Engineering College |
 
@@ -182,6 +178,7 @@ public class GokuLS {
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA%20%26%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/System%20Design-70A5FD?style=flat-square&logo=blueprint&logoColor=white"/>
 </p>
