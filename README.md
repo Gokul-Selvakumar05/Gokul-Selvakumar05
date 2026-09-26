@@ -151,8 +151,8 @@ public class GokuLS {
 | 🎖️ Achievement | 📅 Year | 🏛️ Issuer |
 |:---|:---:|:---|
 | ☕ Java Programming Certificate | 2026 | SSRTIC |
-| 🗄️ SQL (Intermediate) Certificate | 2026 | HackerRank |
-| 🎓 B.E. Computer Science & Engineering (CGPA 7.1) | 2022–2026 | Arasu Engineering College |
+| 🗄️ SQL Certificate | 2026 | SSRTIC |
+
 
 </p>
 
