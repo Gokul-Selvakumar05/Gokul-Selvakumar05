@@ -171,20 +171,6 @@ public class GokuLS {
     St. Antony's Matriculation Hr. Sec. School, Sakkottai
 ```
 
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA%20%26%20LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/System%20Design-70A5FD?style=flat-square&logo=blueprint&logoColor=white"/>
-</p>
-
----
-
 <p align="center">
   <i>"Write code that humans can read, machines can run, and time can't break."</i><br/>
   <b>— Gokul S</b>
