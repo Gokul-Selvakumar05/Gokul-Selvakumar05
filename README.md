@@ -101,22 +101,6 @@ public class GokuLS {
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-Selvakumar05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFA657" width="100%"/>
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokul-Selvakumar05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -137,8 +121,8 @@ public class GokuLS {
 
 | 🗂️ Project | 🛠️ Stack | 📌 Highlights |
 |:---|:---|:---|
-| 🏫 **[College Management System](https://github.com/Gokul-Selvakumar05)** | Java · OOP · JDBC · MySQL | 6 modules · 500+ student records · 8+ tables · ~30% less data redundancy · 100% data consistency |
-| 🌱 **[Secure Banking System](https://github.com/Gokul-Selvakumar05)** | Java · Spring Boot · REST · Maven · MySQL | CRUD-based backend service · building on JDBC/Maven foundation · currently under active development |
+| 🏫 **[College Management System](https://github.com/Gokul-Selvakumar05/college-management-system)** | Java · OOP · JDBC · MySQL | 6 modules · 500+ student records · 8+ tables · ~30% less data redundancy · 100% data consistency |
+| 🌱 **[Secure Banking System](https://github.com/Gokul-Selvakumar05/secure-digital-banking-system)** | Java · Spring Boot · RESTful API · Maven · MySQL | CRUD-based backend service · building on JDBC/Maven foundation · currently under active development |
 
 </p>
 
