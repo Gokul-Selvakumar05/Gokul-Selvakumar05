@@ -138,7 +138,7 @@ public class GokuLS {
 | 🗂️ Project | 🛠️ Stack | 📌 Highlights |
 |:---|:---|:---|
 | 🏫 **[College Management System](https://github.com/Gokul-Selvakumar05)** | Java · OOP · JDBC · MySQL | 6 modules · 500+ student records · 8+ tables · ~30% less data redundancy · 100% data consistency |
-| 🌱 **Spring Boot REST API (In Progress)** | Java · Spring Boot · REST · Maven · MySQL | CRUD-based backend service · building on JDBC/Maven foundation · currently under active development |
+| 🌱 **[Secure Banking System](https://github.com/Gokul-Selvakumar05)** | Java · Spring Boot · REST · Maven · MySQL | CRUD-based backend service · building on JDBC/Maven foundation · currently under active development |
 
 </p>
 
