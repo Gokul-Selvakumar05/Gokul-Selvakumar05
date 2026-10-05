@@ -120,7 +120,7 @@ public class GokuLS {
 ## 💼 Work Experience
 
 <details>
-  <summary><b>🏢 Frontend Developer Trainee — SSRTIC (Technoturf), Papanasam</b> &nbsp;|&nbsp; Dec 2025 – May 2026</summary>
+  <summary><b>🏢 Java Full Stack Developer Trainee — SSRTIC (Technoturf), Papanasam</b> &nbsp;|&nbsp; Dec 2025 – May 2026</summary>
   <br/>
 
   - Completed intensive hands-on training via the **Tekstac** platform, covering **12+ structured modules** across HTML5, CSS3, and JavaScript.
